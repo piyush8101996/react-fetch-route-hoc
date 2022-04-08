@@ -1,0 +1,19 @@
+.container {
+    margin: 15px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.fname {
+    margin: 10px;
+    font-weight: 900;
+}
+
+.email {
+    margin: 10px;
+}
+
+.userImg {
+    width: 200px;
+    height: 200px;
+}

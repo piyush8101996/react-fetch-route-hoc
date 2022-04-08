@@ -1,0 +1,13 @@
+.successMsg {
+    color: green;
+    font-weight: 900;
+}
+
+.errorMsg {
+    color: red;
+    font-weight: 900;
+}
+
+.inputError {
+    border: 3px solid red;
+}
